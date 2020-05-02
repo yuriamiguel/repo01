@@ -1,30 +1,27 @@
-# This is a large heading
+# Yuri Miguel
 
-## This is a smaller heading
-
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-
-- This is
-- an unordered
-- list
-
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
+## Information Systems Engineer (graduated INTEC 1995)
+www.intec.edu.do [a link](https://www.intec.edu.do/)
 
 ```
-This is
-a block
-of code
+Originally worked with DBase, FoxBase, FoxPro and Visual FoxPro
+Participated in a few projects abroad 1996-2000, Developing and 
+implementing a complete suite of software for the administration
+and control of sugar factories in Tanzania and Nigeria as a sub-
+contractor for HVA International through Agromation Ltd from The
+Netherlands. 
 ```
 
-Here is how you make [a link](https://www.bargainplusga.com/).
+Currently updating my skills to include:
+- AWS Cloud Services
+- Integrating Chatbots with Python
+- Google Cloud Services
+- Google Maps API
+- Linux/Ubuntu
+- HTML5, CSS3, JS, JQuery
+- Bootstrap 4
 
-![This is an image.](https://www.sosua.com/photos/DSCN1326.JPG)
+
+![This is Sosua, one of my favorite beach destinations in the Dominican Republic.](https://www.sosua.com/photos/DSCN1326.JPG)
 
 
