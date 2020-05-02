@@ -1,7 +1,7 @@
 # Yuri Miguel
 
 ## Information Systems Engineer (graduated INTEC 1995)
-www.intec.edu.do (https://www.intec.edu.do/)
+[www.intec.edu.do](https://www.intec.edu.do/)
 
 ```
 Originally worked with DBase, FoxBase, FoxPro and Visual 
